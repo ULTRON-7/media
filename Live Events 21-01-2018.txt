@@ -1,0 +1,434 @@
+<item>
+<title>[COLOR limegreen]All Times Are In UK Time Zone[/COLOR]</title>
+<link>http://</link>
+<thumbnail>https://</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR cyan][COLOR red]RED[/COLOR] = OFFLINE[/COLOR] l [COLOR cyan][COLOR lime]GREEN[/COLOR] = ONLINE[/COLOR]</title>
+<link>http://</link>
+<thumbnail>https://euimages.urbanoutfitters.com/is/image/UrbanOutfittersEU/5139633640050_060_s</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>  </title>
+<link>plugin://plugin.video.f4mTester/?url=&amp;streamtype=TSDOWNLOADER&amp;name=NetStreams</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR blueviolet]Sunday 21st January 2018[/COLOR]</title>
+<link>http://</link>
+<thumbnail>https://</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]00:00[/COLOR] l [COLOR dodgerblue]NHL = Montreal Canadiens v Boston Bruins[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/899px-05_NHL_Shield.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]00:30[/COLOR] l [COLOR dodgerblue]NBA = PHILADELPHIA 76ERS-MILWAUKEE BUCKS[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]01:00[/COLOR] l [COLOR dodgerblue]UFC 220 = All PreLims[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 2
+
+<item>
+<title>[COLOR red]01:00[/COLOR] l [COLOR dodgerblue]Boxing = Erroll Spence vs Lamont Peterson[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://cdn.vox-cdn.com/uploads/blog/sbnu_logo_minimal/105/large_badlefthook.com.minimal.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+Box Nation
+
+<item>
+<title>[COLOR red]01:30[/COLOR] l [COLOR dodgerblue]NBA = HOUSTON ROCKETS-GOLDEN STATE WARRIORS[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]03:00[/COLOR] l [COLOR dodgerblue]UFC 220[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]03:20[/COLOR] l [COLOR dodgerblue]Cricket = Australia v England[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>http://prototype.ca-digi.com/cricket/content-imgs/ashes-logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 1
+
+<item>
+<title>[COLOR red]08:00[/COLOR] l [COLOR dodgerblue]Football = Melbourne City v Adelaide United[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Hyundai_A-League_logo_%282017%E2%80%93%29.svg/786px-Hyundai_A-League_logo_%282017%E2%80%93%29.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 3
+
+<item>
+<title>[COLOR red]11:30[/COLOR] l [COLOR dodgerblue]Football = Atalanta v Napoli[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f7/LegaSerieAlogoTIM.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 3
+
+<item>
+<title>[COLOR red]12:00[/COLOR] l [COLOR dodgerblue]Football = Fraserburgh v Rangers[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/11/Scottish_Football_Association_logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+Sky Sports Football
+Sky Sports Main Event
+
+<item>
+<title>[COLOR red]13:00[/COLOR] l [COLOR dodgerblue]Rugby = Leicester v Racing 92[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://d2cx26qpfwuhvu.cloudfront.net/premier/wp-content/uploads/2016/05/31102111/ChampionsCupLogofullcolCMYKgrad.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+Sky Sports Arena
+
+<item>
+<title>[COLOR red]13:00[/COLOR] l [COLOR dodgerblue]Rugby = Munster v Castres[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://d2cx26qpfwuhvu.cloudfront.net/premier/wp-content/uploads/2016/05/31102111/ChampionsCupLogofullcolCMYKgrad.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+Sky Sports Action
+
+<item>
+<title>[COLOR red]14:00[/COLOR] l [COLOR dodgerblue]Football = Lazio v Chievo[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f7/LegaSerieAlogoTIM.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 1
+
+<item>
+<title>[COLOR red]14:05[/COLOR] l [COLOR dodgerblue]Football = Heart of Midlothian v Hibernian[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/11/Scottish_Football_Association_logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+Sky Sports Football
+Sky Sports Main Event
+
+<item>
+<title>[COLOR red]14:30[/COLOR] l [COLOR dodgerblue]Football = Bayern Munich v Werder Bremen[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 3
+
+<item>
+<title>[COLOR red]15:15[/COLOR] l [COLOR dodgerblue]Rugby = Wasps v Ulster[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fc/European_Rugby_Champions_Cup_Logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 2
+
+<item>
+<title>[COLOR red]15:15[/COLOR] l [COLOR dodgerblue]Rugby = La Rochelle v Harlequins[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/fc/European_Rugby_Champions_Cup_Logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+Sky Sports Action
+
+<item>
+<title>[COLOR red]16:00[/COLOR] l [COLOR dodgerblue]Football = Southampton v Tottenham Hotspur[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://www.premierleague.com/resources/ver/i/elements/premier-league-logo-header.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+Sky Sports Main Event
+Sky Sports Premier League
+
+<item>
+<title>[COLOR red]17:00[/COLOR] l [COLOR dodgerblue]Football = Schalke 04 v Hannover 96[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 3
+
+<item>
+<title>[COLOR red]17:00[/COLOR] l [COLOR dodgerblue]Football = Cagliari v AC Milan[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f7/LegaSerieAlogoTIM.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 1
+
+<item>
+<title>[COLOR red]17:30[/COLOR] l [COLOR dodgerblue]Football = Real Sociedad v Celta Vigo[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://streetnewskenya.com/wp-content/uploads/2016/08/laliga-v-1200x1200.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+Sky Sports Football
+
+<item>
+<title>[COLOR red]17:30[/COLOR] l [COLOR dodgerblue]NHL = Washington Capitals v Philadelphia Flyers[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://lh3.googleusercontent.com/PcRhAN7UCMXjWniDrZSUEBAcFFmJxqHFNbflUIYz_8UnDz6UOZKjKtLUUR4Nw1RPXA=w300</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]19:00[/COLOR] l [COLOR dodgerblue]NFL = New England Patriots v Jacksonville Jaguars[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png&w=288&h=288&transparent=true</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+Sky Sports Action
+Sky Sports Main Event
+
+<item>
+<title>[COLOR red]19:45[/COLOR] l [COLOR dodgerblue]Football = Inter Milan v Roma[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f7/LegaSerieAlogoTIM.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 1
+
+<item>
+<title>[COLOR red]19:45[/COLOR] l [COLOR dodgerblue]Football = Real Betis v Barcelona[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://streetnewskenya.com/wp-content/uploads/2016/08/laliga-v-1200x1200.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+Sky Sports Football
+
+<item>
+<title>[COLOR red]20:00[/COLOR] l [COLOR dodgerblue]Football = Olympique Lyonnais v Paris Saint Germain[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>http://football-bbc.com/wp/wp-content/uploads/2016/05/Ligue_1-logo-.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+BT Sport 3
+
+<item>
+<title>[COLOR red]20:05[/COLOR] l [COLOR dodgerblue]NFL = NEW ENGLAND PATRIOTS-JACKSONVILLE JAGUARS[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/436px-National_Football_League_logo.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]20:30[/COLOR] l [COLOR dodgerblue]NBA = LOS ANGELES LAKERS-NEW YORK KNICKS[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]21:00[/COLOR] l [COLOR dodgerblue]NBA = DETROIT PISTONS-BROOKLYN NETS[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://espntheundefeated.files.wordpress.com/2017/05/nba-logo.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]23:40[/COLOR] l [COLOR dodgerblue]NFL = PHILADELPHIA EAGLES-MINNESOTA VIKINGS[/COLOR]</title>
+<link>
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+sublink:plugin://program.plexus/?url=acestream://&amp;mode=1&amp;name=NetStreams SportsHUB#
+</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/436px-National_Football_League_logo.svg.png</thumbnail>
+<fanart>http://kodinitywizard.000webhostapp.com/images(buildinfo)/fanart%20o.jpg</fanart>
+</item>
+
