@@ -1,0 +1,65 @@
+<dir>
+<name>[COLOR white][B]Catch-Up TV[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/media/raw/master/Catch-Up%20TV%20(OFFLINE)%20Done/catchuptv%20hub.xml</link>
+<thumbnail>https://www.bitterwallet.com/media/images/2013/03/tvcatchup.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR white][B]Documentaries[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/media/raw/master/Documentaries%20(OFFLINE)%20Done/Documentaries.xml</link>
+<thumbnail>http://jloordmedia.com/wp-content/uploads/2016/09/documentery.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR white][B]Kids[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/media/raw/master/KidsHUB%20(OFFLINE)%20Done/z%20-%20kidshub_-_home.xml</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/710xY0Flt4L.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR white][B]Live IPTV[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/media/raw/master/Live%20IPTV%20(OFFLINE)%20Done/livehub_-_home.txt.xml</link>
+<thumbnail>https://liteiptv.com/wp-content/uploads/2016/10/television1.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR white][B]Movies[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/media/raw/master/Movies%20(OFFLINE)%20Done/MoviesHUB%20-%20home.xml</link>
+<thumbnail>http://download.seaicons.com/download/i89684/alecive/flatwoken/alecive-flatwoken-apps-google-movies.ico</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR white][B]Music[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/media/raw/master/Music%20(OFFLINE)%20Done/z%20-%20musichub_-_home%20.xml</link>
+<thumbnail>http://www.icons101.com/icon_png/size_512/id_78717/Music.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR white][B]Radio[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/media/raw/master/Radio%20(OFFLINE)%20Done/RadioHUB%20Stations.xml</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-radio.svg/2000px-Circle-icons-radio.svg.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR white][B]Sports (OFFLINE)[/B][/COLOR]</name>
+<link>http://</link>
+<thumbnail>http://www.pvhc.net/img19/mkghlgjtgixycifrfdst.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR white][B]TV Shows[/B][/COLOR]</name>
+<link>https://github.com/NetStreams-AIO/media/raw/master/TV%20Shows%20(OFFLINE)%20Done/TV%20Shows%20-%20home.xml</link>
+<thumbnail>https://lh6.ggpht.com/7gNJfXVVLoAoplZ0n1PzB8Xgs3CIL_csrOwoTHbepwuPtCCflcwm71bM7gI2TUL5HI4=w300</thumbnail>
+</dir>
+
+<plugin>
+<name>[B][COLOR white]Clear Cache[/COLOR][/B]</name>
+<link>plugin://plugin.video.NetStreams/?mode=clearCache</link>
+<thumbnail>http://images.paramounttpa.com/Images/Ewise/Department/images/clear_deta.png</thumbnail>
+</plugin>
+
+<plugin>
+<name>[B][COLOR white]Addon Settings[/COLOR][/B]</name>
+<link>plugin://plugin.video.NetStreams/?action=openSettings</link>
+<thumbnail>http://icons.iconarchive.com/icons/hamzasaleem/stock/256/Settings-icon.png</thumbnail>
+</plugin>
