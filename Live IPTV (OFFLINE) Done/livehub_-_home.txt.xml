@@ -3,6 +3,11 @@
 <link>plugin://plugin.video.SportsDevil/?mode=1&item=title%3dBypassed.ORG%26url%live.bypassed.org%26definedIn%3dcustoms.cfg%26director%live.bypassed.org%26genre%3dLive%2bTV%26type%3drss</link>
 </plugin>
 
+<plugin>
+<title>[B][COLOR white]FirstOneTV.Net[/COLOR][/B]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&item=title%3dFirstOne%2bTV%26url%3dfirstonetv.cfg%26definedIn%3dcustoms.cfg%26director%3dfirstonetv.eu%26genre%3dLive%2bTV%26type%3drss</link>
+</plugin>
+
 <dir>
 <title>[COLOR white][B](Server 1) LiveHUB UK IPTV[/B][/COLOR]</title>
 <link>https://pastebin.com/raw/Y1nJUiqM</link>
