@@ -5,7 +5,7 @@
 
 <dir>
 <title>[B][COLOR white]Disney Movies Collection[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/users/weirskyet/lists/disney-movie-collection</trakt>
+<trakt>https://api.trakt.tv/users/weirskyet/lists/disney-movie-collection/items</trakt>
 </dir>
 
 <dir>
@@ -15,7 +15,7 @@
 
 <dir>
 <title>[B][COLOR white]Marvel Movies[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/users/weirskyet/lists/marvel-movies</trakt>
+<trakt>https://api.trakt.tv/users/weirskyet/lists/marvel-movies/items</trakt>
 </dir>
 
 <dir>
@@ -35,7 +35,7 @@
 
 <dir>
 <title>[B][COLOR white]Trending[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/movies/trending</trakt>
+<trakt>https://api.trakt.tv/movies/trending/items</trakt>
 </dir>
 
 <dir>
@@ -56,7 +56,7 @@
 
 <dir>
 <title>[B][COLOR white]Weekend Box Office[/COLOR][/B]</title>
-<trakt>https://api.trakt.tv/users/justin/lists/imdb-weekend-box-office</trakt>
+<trakt>https://api.trakt.tv/users/justin/lists/imdb-weekend-box-office/items</trakt>
 </dir>
 
 <dir>
